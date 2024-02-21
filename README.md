@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Hello. I'm an IT professional focused in Cybersecurity, Cloud Computing, Software Development.<br>I'm currently working on advancing in Cybersecurity, Cloud Computing, and Software Development through Courses, Books, Projects, Labs, Etc.<br>I'm looking to collaborate on Cybersecurity, Cloud Computing, and Software Development projects in order to hone and acquire skills.<br>I'm looking to find a network of professionals that I can learn from and grow with.<br>Ask me about about my skills, knowledge and experience in the IT space.<br>Fun Fact: I love reading Manga.
 
+# 🖥🔐 Cybersecurity Projects
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahuruse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmedhuruse) 
