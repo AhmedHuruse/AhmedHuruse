@@ -20,6 +20,11 @@ Hello. I'm an IT professional focused in Cybersecurity, Cloud Computing, Softwar
 ### 🖥🔐 Cybersecurity Projects
 
 
+
+### 🥇 Certifications
+Comptia Security+ 
+Issued Jul 2023 
+Credential ID: COMP001022306895 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahuruse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmedhuruse) 
 
