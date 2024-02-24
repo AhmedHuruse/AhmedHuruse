@@ -22,7 +22,7 @@ Hello. I'm an IT professional focused in Cybersecurity, Cloud Computing, Softwar
 
 
 ### 🥇 Certifications
-Comptia Security+ 
+Comptia Security+ -
 Issued Jul 2023 
 Credential ID: COMP001022306895 
 ### 🌐 Socials:
