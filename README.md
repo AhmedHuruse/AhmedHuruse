@@ -41,6 +41,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
