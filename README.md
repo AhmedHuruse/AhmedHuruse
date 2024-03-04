@@ -15,7 +15,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | SIEM Implementation and Log Analysis          |<a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Linux Firewall Configuration                  |  <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -56,7 +56,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>
-- Detection Lab
+- <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>
+- Detction Lab
 - SOC Automation Project
 
 ### 📊 GitHub Stats:
