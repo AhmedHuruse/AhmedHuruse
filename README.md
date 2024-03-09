@@ -6,7 +6,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, cloud computing archtecture, and software devolopment. I am now eager to transition into these fields. I am currently looking for a tier 1 cybersecurity analyst/engineer role.
+My journey in Information Technology has led me to develop a passion for cybersecurity, cloud computing architecture, and software development. I am now eager to transition into these fields. I am currently looking for a tier 1 cybersecurity analyst/engineer role.
 
 ## Skills
 
