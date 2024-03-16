@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://google.com">Detection Lab</a>|
+| Splunk SIEM & Kali Linux Cybersecurity Operations Center         |<a href="https://github.com/AhmedHuruse/CybersecurityOperationsCenter-Homelab"> SOC Homelab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Linux Firewall Configuration                  |  <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>|
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
@@ -56,7 +56,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Projects
 - <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>
 - <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>
-- Detction Lab
+- <a href="https://github.com/AhmedHuruse/CybersecurityOperationsCenter-Homelab"> SOC Homelab</a>
 - SOC Automation Project
 
 ### 📊 GitHub Stats:
