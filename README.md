@@ -16,7 +16,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Active Directory w/ Splunk, Kali, & ART Homelab | <a href="https://github.com/AhmedHuruse/ActiveDirectory-Kali-ART-Splunk">Active Directory Project Homelab</a>|
 | Linux Firewall Configuration                  |  <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>|
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Wireshark Network Analysis     | <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -58,6 +58,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>
 - <a href="https://github.com/AhmedHuruse/CybersecurityOperationsCenter-Homelab"> SOC Homelab</a>
 - <a href="https://github.com/AhmedHuruse/ActiveDirectory-Kali-ART-Splunk">Active Directory Project Homelab</a>
+-  <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedHuruse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
