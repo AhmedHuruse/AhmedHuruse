@@ -18,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
 | Wireshark Network Analysis     | <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
 | Nessus Vulnerability Scanner Analysis and Management                  | <a href="https://github.com/AhmedHuruse/NessusVulnerablitityManagmentAnalysis-VMWare">Vulnerability Analysis and Management Project</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
