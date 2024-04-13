@@ -12,12 +12,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk SIEM & Kali Linux Cybersecurity Operations Center         |<a href="https://github.com/AhmedHuruse/CybersecurityOperationsCenter-Homelab"> SOC Homelab</a>|
+| Splunk SIEM & Kali Linux Cybersecurity Operations Center |<a href="https://github.com/AhmedHuruse/CybersecurityOperationsCenter-Homelab"> SOC Homelab</a>|
 | Active Directory w/ Splunk, Kali, & ART Homelab | <a href="https://github.com/AhmedHuruse/ActiveDirectory-Kali-ART-Splunk">Active Directory Project Homelab</a>|
 | Linux Firewall Configuration                  |  <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>|
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
 | Wireshark Network Analysis     | <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
-| Nessus Vulnerability Scanner Analysis and Management                  | <a href="https://github.com/AhmedHuruse/NessusVulnerablitityManagmentAnalysis-">Vulnerability Analysis and Management Project</a>|
+| Nessus Vulnerability Scanner Analysis and Management  | <a href="https://github.com/AhmedHuruse/NessusVulnerablitityManagmentAnalysis">Vulnerability Analysis and Management Project</a>|
 
 
 ## Tools
