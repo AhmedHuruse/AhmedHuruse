@@ -17,7 +17,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Linux Firewall Configuration                  |  <a href="https://github.com/AhmedHuruse/LinuxIPTablesFirewallConfiguration">Linux Firewall Project</a>|
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
 | Wireshark Network Analysis     | <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Nessus Vulnerability Scanner Analysis and Management                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
