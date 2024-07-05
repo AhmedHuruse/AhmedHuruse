@@ -18,6 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | REmnux Malware Static/Dynamic Analysis        | <a href="https://github.com/AhmedHuruse/REMnux-MalwareAnalysis">Malware Analysis Project</a>|
 | Wireshark Network Analysis     | <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>|
 | Nessus Vulnerability Scanner Analysis and Management  | <a href="https://github.com/AhmedHuruse/NessusVulnerablitityManagmentAnalysis">Vulnerability Analysis and Management Project</a>|
+| Azure Hub and Spoke Model Network Management   | <a href="https://github.com/AhmedHuruse/MicrosoftAzure-HubAndSpokeTopologyVirtualNetworkManager">Azure Hub and Spoke Model Network Management Project</a>|
 
 
 ## Tools
@@ -60,6 +61,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/AhmedHuruse/ActiveDirectory-Kali-ART-Splunk">Active Directory Project Homelab</a>
 -  <a href="https://github.com/AhmedHuruse/NetworkAnalysisAndExfiltrationProject-Wireshark">Wireshark Network Analysis Project</a>
 -  <a href="https://github.com/AhmedHuruse/NessusVulnerablitityManagmentAnalysis-VMWare">Vulnerability Analysis and Management Project</a>
+-  <a href="https://github.com/AhmedHuruse/MicrosoftAzure-HubAndSpokeTopologyVirtualNetworkManager">Azure Hub and Spoke Model Network Management Project</a>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedHuruse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
